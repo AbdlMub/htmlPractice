@@ -1,0 +1,21 @@
+body {
+    font-family: Helvetica;
+    background-color: rgb(42, 165, 120);
+    color:aquamarine;
+}
+
+h1{
+    font-size: 50px;
+    margin: 0;
+}
+
+p{
+    font-style: italic;
+}
+h2{
+    color: #555;
+    border-top: solid 1px blueviolet;
+}
+ol{
+    border-bottom: solid 1px #333 ;
+}
